@@ -1,0 +1,2 @@
+# awesome
+Mi config Awesome
